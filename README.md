@@ -1,4 +1,4 @@
-I love Joomla!
+I :heart: Joomla!
 
 Visit my [personal site](https://funartist.github.io/)
 
